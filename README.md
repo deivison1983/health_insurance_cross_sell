@@ -3,7 +3,7 @@
 
 ## O projeto
 
-Este projeto fictício que compõe o meu portfólio profissional busca criar uma solução de negocio que auxiliará uma empresa de seguros de saúde a definir quais clientes devem ser selecionados para receberem uma oferta de lançamento de um novo produto.
+Este projeto que compõe o meu portfólio profissional busca criar uma solução de negocio que auxiliará uma empresa de seguros de saúde a definir quais clientes devem ser selecionados para receberem uma oferta de lançamento de um novo produto.
 
 O projeto está estruturado nos seguintes passos:
 
